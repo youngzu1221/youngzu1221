@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @youngzu1221
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Electrical and Computer Engineering
-- 💞️ I’m looking to collaborate on Digital signal Processing
 - 📫 How to reach me Zolazola1221@gmail.com
 
 <!---
